@@ -21,21 +21,7 @@ const data = [
         heading: 'How the pandemic has sparked fresh opportunities',
         img: games
     },
-    // {
-    //     id: 4,
-    //     title: 'Hydrogen VS Elecctric Cars',
-    //     heading: 'Will hydrogen-fuled cars ever catch up to EVs?'
-    // },
-    // {
-    //     id: 5,
-    //     title: 'The Downsides of AI Artistry',
-    //     heading: 'What are the possible adverse effects of on-demand AI image generation?'
-    // },
-    // {
-    //     id: 6,
-    //     title: 'Is VC Funding Drying Up?',
-    //     heading: 'Private funding by VC firms is down 50% YOY. We take a look at what that means.'
-    // },
+ 
 ]
 
 export default data
