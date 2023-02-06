@@ -3,6 +3,7 @@ import landingImg from '../assets/images/image-web-3-desktop.jpg';
 import data from '../data/data';
 
 const HomePage = () => {
+    console.log(data[0].img);
   return (
     <main className='grid grid-cols-1 md:grid-cols-3'>
         <div className='md:col-span-2'>
