@@ -4,7 +4,7 @@ import Navbar from './ui/Navbar';
 
 function App() {
   return (
-    <div className='w-9/12 mx-auto'>
+    <div className='max-w-7xl mx-auto p-10'>
       <Navbar />
       <HomePage />
     </div>
