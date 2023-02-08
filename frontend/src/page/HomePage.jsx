@@ -5,7 +5,7 @@ import data from '../data/data';
 const news = [
        {
         id: 4,
-        title: 'Hydrogen VS Elecctric Cars',
+        title: 'Hydrogen VS Electric Cars',
         heading: 'Will hydrogen-fuled cars ever catch up to EVs?'
     },
     {
